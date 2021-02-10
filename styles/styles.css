@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 36pt;
+}
+body{
+    font-family: "Verdana", Helvetica, sans-serif;
+    background-color: aqua;
+    
+}
+h3{
+    text-decoration: underline;
+}
+blockquote{
+    font-style: italic;
+}
+img{
+    border: 10px solid;
+    border-color: black;
+}
+form div {
+    padding: 10px;
+}
+#infoForm {    
+    background-color:whitesmoke;
+    border-radius: 25%;
+    padding: 10px 25px 25px 55px;
+    margin-right: 60%;    
+}
