@@ -14,7 +14,7 @@
 
     <main>
         <section>
-            <img src="/img/220px-Cibola_Burn cover.jpg" />
+            <img src="/img/220px-Cibola_Burn cover.JPG" />
         </section>
         <section>
             <h3>Synopsis</h3>
@@ -66,7 +66,7 @@
                 </tr>
                 <tr>
                     <td>Amos Burton</td>
-                    <td>Muscle, Mechanic</td>>
+                    <td>Muscle, Mechanic</td>
                 </tr>
 
             </table>
